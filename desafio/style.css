@@ -4,22 +4,3 @@
     margin: 0;
     padding: 0;
 }
-
-.contenedor__cuadro{
-
-    color: aliceblue;
-
-}
-
-#two{
-    background-color: black;
-    
-    min-height: 50px;
-    min-width: 100px;
-}
-
-#one{
-    max-height: 20px;
-    max-width: 90px;
-    background-color: blue;
-}
