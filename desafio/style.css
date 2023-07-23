@@ -1,0 +1,16 @@
+
+*{
+    
+}
+
+.target__encima{
+background-color: black;
+color: aliceblue;
+position: absolute;
+right:50%;
+}
+
+.target__debajo{
+    background-color: antiquewhite;
+    
+    }
