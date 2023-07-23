@@ -1,16 +1,25 @@
 
 *{
-    
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-.target__encima{
-background-color: black;
-color: aliceblue;
-position: absolute;
-right:50%;
+.contenedor__cuadro{
+
+    color: aliceblue;
+
 }
 
-.target__debajo{
-    background-color: antiquewhite;
+#two{
+    background-color: black;
     
-    }
+    min-height: 50px;
+    min-width: 100px;
+}
+
+#one{
+    max-height: 20px;
+    max-width: 90px;
+    background-color: blue;
+}
